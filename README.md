@@ -160,4 +160,8 @@ Netlify deployment is configured in `netlify.toml` to run `npx next build` and u
 
 ## License
 
-No license file is currently included. Add a license before distributing or open-sourcing the project.
+Copyright © 2026 Othmane Aoubid. All rights reserved.
+
+This repository is publicly visible for reference only. No permission is granted
+to copy, modify, distribute, or use this software without prior written
+permission from the copyright holder.

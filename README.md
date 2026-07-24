@@ -160,7 +160,7 @@ Netlify deployment is configured in `netlify.toml` to run `npx next build` and u
 
 ## License
 
-Copyright © 2026 Othmane Aoubid. All rights reserved.
+Copyright © 2026. All rights reserved.
 
 This repository is publicly visible for reference only. No permission is granted
 to copy, modify, distribute, or use this software without prior written
